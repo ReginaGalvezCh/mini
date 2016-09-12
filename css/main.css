@@ -1,0 +1,12 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+.grande
+{
+	background-color: linear-gradient #1DD36F #16D389 #14D3A8;
+	max-width: 100%;
+	height: 50%;
+}
